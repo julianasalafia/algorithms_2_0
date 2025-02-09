@@ -2,7 +2,7 @@
 
 import 'dart:io';
 
-import 'package:algorithms_2_0/model/user_model.dart';
+import 'package:algorithms_2_0/commons/model/user_model.dart';
 
 void main() {
   UserModel user = UserModel.empty();

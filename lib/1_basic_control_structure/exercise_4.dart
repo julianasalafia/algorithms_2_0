@@ -2,7 +2,7 @@
 
 import 'dart:io';
 
-import 'package:algorithms_2_0/model/sum_model.dart';
+import 'package:algorithms_2_0/commons/model/sum_model.dart';
 
 void main() {
   SumModel sum = SumModel.empty();

@@ -2,7 +2,7 @@
 
 import 'dart:io';
 
-import 'package:algorithms_2_0/model/student_model.dart';
+import 'package:algorithms_2_0/commons/model/student_model.dart';
 
 void main() {
   StudentModel student = StudentModel.empty();
